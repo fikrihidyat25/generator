@@ -1,0 +1,9 @@
+body {
+    scroll-behavior: smooth;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1,h2, p {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+/* Header   
